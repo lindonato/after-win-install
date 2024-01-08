@@ -1,0 +1,6 @@
+
+# WINUTILS christitus
+iwr -useb https://christitus.com/win | iex
+#or by executing:
+
+# irm https://christitus.com/win | iex
